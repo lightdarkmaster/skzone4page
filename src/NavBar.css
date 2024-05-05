@@ -1,3 +1,7 @@
+.NavBar{
+    position: sticky;
+}
+
 .logo{
     width: 50px;
 }

@@ -9,7 +9,7 @@ function NavBar() {
       <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid">
           <a class="navbar-brand" href="#">
-            <img className='logo' src={logo}/>
+            <img className='logo' src={logo}/> 
           </a>
           <button
             class="navbar-toggler"
@@ -67,5 +67,5 @@ function NavBar() {
     </div>
   );
 }
-
+//end of Navbar here..
 export default NavBar;
